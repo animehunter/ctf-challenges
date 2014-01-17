@@ -3,7 +3,7 @@ CTF Challenge Solutions
 
 Week 1 (Silly Jimmy)
 --------------------
-In this challenge, the goal was to analyze python script and reverse engineer a 32-Bit Linux executable.
+In this challenge, the goal was to analyze a python script and reverse engineer a 32-Bit Linux executable.
 
 One of the solution:
 ```
